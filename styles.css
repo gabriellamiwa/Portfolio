@@ -1,0 +1,60 @@
+body {
+    background-color: #ffffff;
+    height: 100vh;
+}
+
+.nav-link {
+    color: #1b1b1b;
+}
+
+.navbar-brand {
+    color: #3a74c1;
+}
+
+.active {
+    color: #c5c5c5;
+}
+
+.navbar {
+    border-bottom: 1px solid #3a74c1;
+    background-color: transparent;
+}
+
+.container .row .col-md-8 h2,
+.badge-container h2 {
+    color: #3a74c1;
+    margin-bottom: 20px;
+}
+
+.projects {
+    background-color: #5c88c3;
+    padding: 70px;
+    max-width: calc(1100px + 50%);
+}
+
+.btn-primary {
+    background-color: #5c88c3;
+}
+
+.fab,
+.fas {
+    margin-right: 20px;
+    color: #3a74c1;
+}
+
+.badge-container {
+    min-height: 200px;
+    padding: 20px;
+}
+
+.badge-custom {
+    background-color: #3a74c1;
+    color: #fff;
+    font-size: 15px;
+    margin: 5px;
+    padding: 10px 20px;
+}
+
+.border-top {
+    color: #3a74c1;
+}
